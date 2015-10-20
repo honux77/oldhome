@@ -1,3 +1,6 @@
 [submodule "easy6502"]
 	path = easy6502
 	url = https://github.com/skilldrick/easy6502.git
+[submodule "6502js"]
+	path = 6502js
+	url = https://github.com/honux77/6502js.git
